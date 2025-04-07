@@ -1,9 +1,9 @@
 body{
     background-color: black;
     text-align: center;
-}
-header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -13,4 +13,21 @@ header {
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
